@@ -1,0 +1,3 @@
+# Second plot
+plot(datetime, voltage, type="l", xlab="datetime", ylab="Voltage")
+png("plot2.png", width=480, height=480)
