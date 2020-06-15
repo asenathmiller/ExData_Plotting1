@@ -1,0 +1,2 @@
+# Fourth plot
+plot(datetime, globalReactivePower, type="l", xlab="datetime", ylab="Global_reactive_power", cex=0.2)
